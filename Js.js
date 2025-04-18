@@ -99,3 +99,5 @@ document.addEventListener('DOMContentLoaded', function () {
       element.addEventListener('blur', () => { element.classList.remove('focused'); });
    });
 });
+
+console.log('lena test')
